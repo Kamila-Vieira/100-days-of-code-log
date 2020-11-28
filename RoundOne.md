@@ -17,4 +17,4 @@ Portifólio.</br>
 Iniciei os estudos no Free Camp Code.</br>
 **Observações:**
 Aprendi a ordenar melhor os operadores condicionais. Estou conseguindo resolver problemas em Javascript</br>
-**Links:** [Disarium Number](https://www.codewars.com/kata/5a53a17bfd56cb9c14000003/train/javascript/5fc27f7c67188f000f81bef2), [Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem?utm_campaign=social-buttons&utm_medium=twitter&utm_source=challenge), [Portifólio](https://github.com/Kamila-Vieira/kamila-vieira.github.io)</br>
+**Links:** [Disarium Number](https://www.codewars.com/kata/5a53a17bfd56cb9c14000003/train/javascript/5fc27f7c67188f000f81bef2), [Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem?utm_campaign=social-buttons&utm_medium=twitter&utm_source=challenge), [Portifólio](https://github.com/Kamila-Vieira/kamila-vieira.github.io), [Free Camp Code](https://www.freecodecamp.org/fcc7a03fd59-a306-4ae4-8605-0d5d4cc91cc5)</br>
