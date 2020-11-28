@@ -3,7 +3,6 @@
 ### Dia 1: 27 Novembro. Sexta-feira
 
 **Progresso de Hoje:**
-
 Concluí os Desafios "RGB function" (CodeWars) e "Operators" (dia 2 do Hackerrank).</br>
 **Observações:**
 Feliz por aprender a converter números em hexadecimal.</br>
