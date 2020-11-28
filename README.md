@@ -1,6 +1,7 @@
 # Logs do desafio #100DaysOfCode
 
-> **[Regras do desafio](https://github.com/kallaway/100-days-of-code/blob/master/intl/pt-br/regras.md)** > **[Site do Desafio](https://www.100daysofcode.com/)**
+> **[Regras do desafio](https://github.com/kallaway/100-days-of-code/blob/master/intl/pt-br/regras.md)** </br>
+> **[Site do Desafio](https://www.100daysofcode.com/)**
 
 ## Início - 27/Novembro/2020
 
