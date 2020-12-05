@@ -1,7 +1,6 @@
 # Logs do desafio #100DaysOfCode
 
-> **[Regras do desafio](https://github.com/kallaway/100-days-of-code/blob/master/intl/pt-br/regras.md)** </br>
-> **[Site do Desafio](https://www.100daysofcode.com/)**
+> **[Regras do desafio](https://github.com/kallaway/100-days-of-code/blob/master/intl/pt-br/regras.md)** </br> > **[Site do Desafio](https://www.100daysofcode.com/)**
 
 ## Início - 27/Novembro/2020
 
@@ -9,8 +8,8 @@
 
 ## Término - 06/Março/2021
 
-### Round One (27/11/2020 - 31/12/2020)
+### [Round One (27/11/2020 - 31/12/2020)](/RoundOne.md)
 
-### Round Two (01/01/2021 - 03/02/2021)
+### [Round Two (01/01/2021 - 03/02/2021)](/RoundTwo.md)
 
-### Round Three (04/02/2021 - 06/03/2021)
+### [Round Three (04/02/2021 - 06/03/2021)](/RoundThree.md)

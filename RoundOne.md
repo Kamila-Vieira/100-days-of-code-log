@@ -1,4 +1,4 @@
-## Log do 1º Round do #100DaysOfCode | (27/11/2020 - 31/12/2020)
+## Log do 1º Round desafio #100DaysOfCode | (27/11/2020 - 31/12/2020)
 
 ### Dia 1: 27 Novembro. Sexta-feira
 
