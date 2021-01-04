@@ -11,3 +11,9 @@
 **Progresso de Hoje:** Realizei o desafio "Extract the domain name from a URL" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b).</br>
+
+### Dia 38: 04 Janeiro. Segunda-feira
+
+**Progresso de Hoje:** Realizei o desafio "String incrementer" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c).</br>
