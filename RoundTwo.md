@@ -17,3 +17,9 @@
 **Progresso de Hoje:** Realizei o desafio "String incrementer" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c).</br>
+
+### Dia 39: 05 Janeiro. Terça-feira
+
+**Progresso de Hoje:** Realizei o desafio "Regex Password Validation" da codewars.</br>
+**Observações:** Reelembrei expresões regulares.</br>
+**Links:** [Regex Password Validation](https://www.codewars.com/kata/52e1476c8147a7547a000811).</br>
