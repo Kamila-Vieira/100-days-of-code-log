@@ -20,6 +20,12 @@
 
 ### Dia 39: 05 Janeiro. Terça-feira
 
-**Progresso de Hoje:** Realizei o desafio "Regex Password Validation" da codewars.</br>
+**Progresso de Hoje:** Realizei o desafio "Regex Password Validation" da codewars, finalizei o backend da semana DevSuperior.</br>
 **Observações:** Reelembrei expresões regulares.</br>
-**Links:** [Regex Password Validation](https://www.codewars.com/kata/52e1476c8147a7547a000811).</br>
+**Links:** [Regex Password Validation](https://www.codewars.com/kata/52e1476c8147a7547a000811), [DevSuperior backend](https://github.com/Kamila-Vieira/dsdeliver-sds2/tree/main/backend).</br>
+
+### Dia 40: 06 Janeiro. Quarta-feira
+
+**Progresso de Hoje:** Realizei o desafio "Matrix Transpose" da codewars, estou no segundo dia de aulas da semana DevSuperior.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Matrix Transpose](https://www.codewars.com/kata/52fba2a9adcd10b34300094c), [DevSuperior Repositório](https://github.com/Kamila-Vieira/dsdeliver-sds2).</br>
