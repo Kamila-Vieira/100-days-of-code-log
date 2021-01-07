@@ -32,6 +32,6 @@
 
 ### Dia 41: 07 Janeiro. Quinta-feira
 
-**Progresso de Hoje:** Realizei o desafio "Convert string to camel case" da codewars, finalizei o segundo dia de aulas da semana DevSuperior.</br>
+**Progresso de Hoje:** Realizei os desafios "Convert string to camel case" e "Calculate Variance" da codewars, finalizei o segundo dia de aulas da semana DevSuperior.</br>
 **Observações:** Estou cada vez melhor em Javacript e React.</br>
-**Links:** [Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003), [DevSuperior Front-end](https://github.com/Kamila-Vieira/dsdeliver-sds2/tree/main/front-web).</br>
+**Links:** [Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003), [Calculate Variance](https://www.codewars.com/kata/5266fba01283974e720000fa), [DevSuperior Front-end](https://github.com/Kamila-Vieira/dsdeliver-sds2/tree/main/front-web).</br>
