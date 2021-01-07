@@ -29,3 +29,9 @@
 **Progresso de Hoje:** Realizei o desafio "Matrix Transpose" da codewars, estou no segundo dia de aulas da semana DevSuperior.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Matrix Transpose](https://www.codewars.com/kata/52fba2a9adcd10b34300094c), [DevSuperior Repositório](https://github.com/Kamila-Vieira/dsdeliver-sds2).</br>
+
+### Dia 41: 07 Janeiro. Quinta-feira
+
+**Progresso de Hoje:** Realizei o desafio "Convert string to camel case" da codewars, finalizei o segundo dia de aulas da semana DevSuperior.</br>
+**Observações:** Estou cada vez melhor em Javacript e React.</br>
+**Links:** [Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003), [DevSuperior Front-end](https://github.com/Kamila-Vieira/dsdeliver-sds2/tree/main/front-web).</br>
