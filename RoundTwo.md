@@ -35,3 +35,9 @@
 **Progresso de Hoje:** Realizei os desafios "Convert string to camel case" e "Calculate Variance" da codewars, finalizei o segundo dia de aulas da semana DevSuperior.</br>
 **Observações:** Estou cada vez melhor em Javacript e React.</br>
 **Links:** [Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003), [Calculate Variance](https://www.codewars.com/kata/5266fba01283974e720000fa), [DevSuperior Front-end](https://github.com/Kamila-Vieira/dsdeliver-sds2/tree/main/front-web).</br>
+
+### Dia 42: 08 Janeiro. Sexta-feira
+
+**Progresso de Hoje:** Realizei o desafio "Meeting" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Meeting](https://www.codewars.com/kata/59df2f8f08c6cec835000012).</br>
