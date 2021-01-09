@@ -41,3 +41,9 @@
 **Progresso de Hoje:** Realizei o desafio "Meeting" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Meeting](https://www.codewars.com/kata/59df2f8f08c6cec835000012).</br>
+
+### Dia 43: 09 Janeiro. Sábado
+
+**Progresso de Hoje:** Finalizei o projeto dsdeliver da semana devsuperior.</br>
+**Observações:** Estou cada vez melhor em Typescript e React.</br>
+**Links:** [DS Deliver](https://dsdeliverkamila.netlify.app/).</br>
