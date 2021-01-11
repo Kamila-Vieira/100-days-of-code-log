@@ -53,3 +53,9 @@
 **Progresso de Hoje:** Realizei o desafio "Format a string of names like 'Bart, Lisa & Maggie'" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Format a string of names like 'Bart, Lisa & Maggie'](https://www.codewars.com/kata/53368a47e38700bd8300030d).</br>
+
+### Dia 45: 11 Janeiro. Segunda-feira
+
+**Progresso de Hoje:** Realizei o desafio "Does my number look big in this?" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c).</br>
