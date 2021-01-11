@@ -47,3 +47,9 @@
 **Progresso de Hoje:** Finalizei o projeto dsdeliver da semana devsuperior.</br>
 **Observações:** Estou cada vez melhor em Typescript e React.</br>
 **Links:** [DS Deliver](https://dsdeliverkamila.netlify.app/).</br>
+
+### Dia 44: 10 Janeiro. Domingo
+
+**Progresso de Hoje:** Realizei o desafio "Format a string of names like 'Bart, Lisa & Maggie'" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Format a string of names like 'Bart, Lisa & Maggie'](https://www.codewars.com/kata/53368a47e38700bd8300030d).</br>
