@@ -59,3 +59,9 @@
 **Progresso de Hoje:** Realizei o desafio "Does my number look big in this?" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c).</br>
+
+### Dia 46: 11 Janeiro. Terça-feira
+
+**Progresso de Hoje:** Realizei o desafio "Decode the Morse code" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e).</br>
