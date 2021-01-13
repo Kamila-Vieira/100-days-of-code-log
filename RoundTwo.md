@@ -60,8 +60,14 @@
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c).</br>
 
-### Dia 46: 11 Janeiro. Terça-feira
+### Dia 46: 12 Janeiro. Terça-feira
 
 **Progresso de Hoje:** Realizei o desafio "Decode the Morse code" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e).</br>
+
+### Dia 47: 13 Janeiro. Quarta-feira
+
+**Progresso de Hoje:** Realizei o desafio "Strip Comments" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Strip Comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd).</br>
