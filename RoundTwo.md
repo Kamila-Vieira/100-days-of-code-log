@@ -71,3 +71,9 @@
 **Progresso de Hoje:** Realizei o desafio "Strip Comments" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Strip Comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd).</br>
+
+### Dia 48: 14 Janeiro. Quinta-feira
+
+**Progresso de Hoje:** Realizei o desafio "Take a Ten Minute Walk" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Take a Ten Minute Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228).</br>
