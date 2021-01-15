@@ -77,3 +77,9 @@
 **Progresso de Hoje:** Realizei o desafio "Take a Ten Minute Walk" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Take a Ten Minute Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228).</br>
+
+### Dia 49: 15 Janeiro. Sexta-feira
+
+**Progresso de Hoje:** Realizei o desafio "First non-repeating character" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [First non-repeating character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e).</br>
