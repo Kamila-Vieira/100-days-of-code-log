@@ -83,3 +83,9 @@
 **Progresso de Hoje:** Realizei o desafio "First non-repeating character" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [First non-repeating character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e).</br>
+
+### Dia 50: 16 Janeiro. Sábado
+
+**Progresso de Hoje:** Realizei o desafio "Count the smiley faces!" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Count the smiley faces!](https://www.codewars.com/kata/583203e6eb35d7980400002a).</br>
