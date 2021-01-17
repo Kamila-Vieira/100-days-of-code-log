@@ -89,3 +89,9 @@
 **Progresso de Hoje:** Realizei o desafio "Count the smiley faces!" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Count the smiley faces!](https://www.codewars.com/kata/583203e6eb35d7980400002a).</br>
+
+### Dia 51: 17 Janeiro. Domingo
+
+**Progresso de Hoje:** Realizei o desafio "Sum of Intervals" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Sum of Intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd).</br>
