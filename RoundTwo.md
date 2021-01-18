@@ -95,3 +95,9 @@
 **Progresso de Hoje:** Realizei o desafio "Sum of Intervals" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Sum of Intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd).</br>
+
+### Dia 52: 18 Janeiro. Segunda-feira
+
+**Progresso de Hoje:** Realizei o desafio "Sudoku Solution Validator" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Sudoku Solution Validator](https://www.codewars.com/kata/529bf0e9bdf7657179000008).</br>
