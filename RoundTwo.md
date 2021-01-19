@@ -101,3 +101,9 @@
 **Progresso de Hoje:** Realizei o desafio "Sudoku Solution Validator" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Sudoku Solution Validator](https://www.codewars.com/kata/529bf0e9bdf7657179000008).</br>
+
+### Dia 53: 19 Janeiro. Terça-feira
+
+**Progresso de Hoje:** Realizei o desafio "Persistent Bugger" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec).</br>
