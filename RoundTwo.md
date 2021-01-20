@@ -107,3 +107,9 @@
 **Progresso de Hoje:** Realizei o desafio "Persistent Bugger" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec).</br>
+
+### Dia 54: 20 Janeiro. Quarta-feira
+
+**Progresso de Hoje:** Realizei o desafio "Common array elements" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Common array elements](https://t.co/amOwCLltPK?amp=1).</br>
