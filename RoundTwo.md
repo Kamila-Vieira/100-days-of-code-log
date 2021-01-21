@@ -113,3 +113,9 @@
 **Progresso de Hoje:** Realizei o desafio "Common array elements" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Common array elements](https://t.co/amOwCLltPK?amp=1).</br>
+
+### Dia 55: 21 Janeiro. Quinta-feira
+
+**Progresso de Hoje:** Realizei o desafio "Pete, the baker" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Pete, the baker](https://t.co/pQy7QP8tDb?amp=1).</br>
