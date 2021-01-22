@@ -119,3 +119,9 @@
 **Progresso de Hoje:** Realizei o desafio "Pete, the baker" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Pete, the baker](https://t.co/pQy7QP8tDb?amp=1).</br>
+
+### Dia 56: 22 Janeiro. Sexta-feira
+
+**Progresso de Hoje:** Realizei o desafio "Duplicate Encoder" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Duplicate Encoder](https://t.co/Trt1lXsjMu?amp=1).</br>
