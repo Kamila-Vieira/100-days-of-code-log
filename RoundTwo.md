@@ -125,3 +125,9 @@
 **Progresso de Hoje:** Realizei o desafio "Duplicate Encoder" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Duplicate Encoder](https://t.co/Trt1lXsjMu?amp=1).</br>
+
+### Dia 57: 23 Janeiro. Sábado
+
+**Progresso de Hoje:** Realizei o desafio "Sequence convergence" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Sequence convergence](https://t.co/OR2kGql247?amp=1).</br>
