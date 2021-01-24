@@ -131,3 +131,9 @@
 **Progresso de Hoje:** Realizei o desafio "Sequence convergence" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Sequence convergence](https://t.co/OR2kGql247?amp=1).</br>
+
+### Dia 58: 24 Janeiro. Domingo
+
+**Progresso de Hoje:** Realizei o desafio "zipWith" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [zipWith](https://www.codewars.com/kata/5825792ada030e9601000782).</br>
