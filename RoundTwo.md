@@ -137,3 +137,9 @@
 **Progresso de Hoje:** Realizei o desafio "zipWith" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [zipWith](https://www.codewars.com/kata/5825792ada030e9601000782).</br>
+
+### Dia 59: 25 Janeiro. Segunda-feira
+
+**Progresso de Hoje:** Realizei o desafio "Adding Big Numbers" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Adding Big Numbers](https://t.co/txI7VrutxX?amp=1).</br>
