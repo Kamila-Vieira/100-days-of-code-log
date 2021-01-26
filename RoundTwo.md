@@ -143,3 +143,9 @@
 **Progresso de Hoje:** Realizei o desafio "Adding Big Numbers" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Adding Big Numbers](https://t.co/txI7VrutxX?amp=1).</br>
+
+### Dia 60: 26 Janeiro. Terça-feira
+
+**Progresso de Hoje:** Realizei o desafio "Hidden 'Cubic' numbers" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Hidden 'Cubic' numbers](https://t.co/pwnpPW3gNn?amp=1).</br>
