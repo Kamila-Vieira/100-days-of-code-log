@@ -149,3 +149,9 @@
 **Progresso de Hoje:** Realizei o desafio "Hidden 'Cubic' numbers" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Hidden 'Cubic' numbers](https://t.co/pwnpPW3gNn?amp=1).</br>
+
+### Dia 61: 27 Janeiro. Quarta-feira
+
+**Progresso de Hoje:** Realizei o desafio "Encrypt this!" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Encrypt this!](https://www.codewars.com/kata/5848565e273af816fb000449).</br>
