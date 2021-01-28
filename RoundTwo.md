@@ -155,3 +155,9 @@
 **Progresso de Hoje:** Realizei o desafio "Encrypt this!" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Encrypt this!](https://www.codewars.com/kata/5848565e273af816fb000449).</br>
+
+### Dia 62: 28 Janeiro. Quinta-feira
+
+**Progresso de Hoje:** Realizei o desafio "The observed PIN" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [The observed PIN](https://t.co/nlmcV2XodQ?amp=1).</br>
