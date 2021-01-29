@@ -161,3 +161,9 @@
 **Progresso de Hoje:** Realizei o desafio "The observed PIN" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [The observed PIN](https://t.co/nlmcV2XodQ?amp=1).</br>
+
+### Dia 63: 29 Janeiro. Sexta-feira
+
+**Progresso de Hoje:** Realizei o desafio "Find the missing letter" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Find the missing letter](https://t.co/3zGIve32L7?amp=1).</br>
