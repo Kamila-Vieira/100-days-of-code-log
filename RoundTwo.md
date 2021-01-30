@@ -167,3 +167,9 @@
 **Progresso de Hoje:** Realizei o desafio "Find the missing letter" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Find the missing letter](https://t.co/3zGIve32L7?amp=1).</br>
+
+### Dia 64: 30 Janeiro. Sábado
+
+**Progresso de Hoje:** Realizei o desafio "1RM Calculator" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [1RM Calculator](https://t.co/0Vzh3k0tJe?amp=1).</br>
