@@ -173,3 +173,9 @@
 **Progresso de Hoje:** Realizei o desafio "1RM Calculator" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [1RM Calculator](https://t.co/0Vzh3k0tJe?amp=1).</br>
+
+### Dia 65: 31 Janeiro. Domingo
+
+**Progresso de Hoje:** Realizei o desafio "Find the unique number" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235).</br>
