@@ -179,3 +179,9 @@
 **Progresso de Hoje:** Realizei o desafio "Find the unique number" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235).</br>
+
+### Dia 66: 01 Fevereiro. Segunda-feira
+
+**Progresso de Hoje:** Realizei o desafio "Sort the odd" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Sort the odd](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d).</br>
