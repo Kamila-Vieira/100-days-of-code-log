@@ -185,3 +185,9 @@
 **Progresso de Hoje:** Realizei o desafio "Sort the odd" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Sort the odd](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d).</br>
+
+### Dia 67: 02 Fevereiro. Terça-feira
+
+**Progresso de Hoje:** Realizei o desafio "Build a pile of Cubes" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Build a pile of Cubes](https://t.co/w8BMY9WM23?amp=1).</br>
