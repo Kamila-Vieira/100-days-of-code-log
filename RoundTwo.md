@@ -191,3 +191,9 @@
 **Progresso de Hoje:** Realizei o desafio "Build a pile of Cubes" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Build a pile of Cubes](https://t.co/w8BMY9WM23?amp=1).</br>
+
+### Dia 68: 03 Fevereiro. Quarta-feira
+
+**Progresso de Hoje:** Realizei o desafio "Find the nth Reverse Number (Extreme)" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Find the nth Reverse Number (Extreme)](https://www.codewars.com/kata/600c18ec9f033b0008d55eec).</br>
