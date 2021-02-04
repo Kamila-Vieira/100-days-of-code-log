@@ -197,3 +197,9 @@
 **Progresso de Hoje:** Realizei o desafio "Find the nth Reverse Number (Extreme)" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Find the nth Reverse Number (Extreme)](https://www.codewars.com/kata/600c18ec9f033b0008d55eec).</br>
+
+### Dia 69: 04 Fevereiro. Quinta-feira
+
+**Progresso de Hoje:** Realizei o desafio "Build Tower" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Build Tower](https://www.codewars.com/kata/576757b1df89ecf5bd00073b).</br>
