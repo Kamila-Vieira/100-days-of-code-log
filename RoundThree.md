@@ -11,3 +11,9 @@
 **Progresso de Hoje:** Realizei o desafio "Last digit of a large number" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Last digit of a large number](https://www.codewars.com/kata/5511b2f550906349a70004e1).</br>
+
+### Dia 72: 08 Fevereiro. Segunda-feira
+
+**Progresso de Hoje:** Realizei o desafio "Vector class" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Vector class](https://www.codewars.com/kata/526dad7f8c0eb5c4640000a4).</br>
