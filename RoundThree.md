@@ -17,3 +17,9 @@
 **Progresso de Hoje:** Realizei o desafio "Vector class" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Vector class](https://www.codewars.com/kata/526dad7f8c0eb5c4640000a4).</br>
+
+### Dia 73: 09 Fevereiro. Terça-feira
+
+**Progresso de Hoje:** Realizei o desafio "Pairs of Bears" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Pairs of Bears](https://www.codewars.com/kata/57d165ad95497ea150000020).</br>
