@@ -23,3 +23,9 @@
 **Progresso de Hoje:** Realizei o desafio "Pairs of Bears" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Pairs of Bears](https://www.codewars.com/kata/57d165ad95497ea150000020).</br>
+
+### Dia 74: 10 Fevereiro. Quarta-feira
+
+**Progresso de Hoje:** Realizei o desafio "Double Cola" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Double Cola](https://t.co/Tt1onRyVuo?amp=1).</br>
