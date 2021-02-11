@@ -29,3 +29,9 @@
 **Progresso de Hoje:** Realizei o desafio "Double Cola" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Double Cola](https://t.co/Tt1onRyVuo?amp=1).</br>
+
+### Dia 75: 11 Fevereiro. Quinta-feira
+
+**Progresso de Hoje:** Realizei o desafio "Which are in?" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Which are in?](https://t.co/EIPUZEzLnR?amp=1).</br>
