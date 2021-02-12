@@ -35,3 +35,9 @@
 **Progresso de Hoje:** Realizei o desafio "Which are in?" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Which are in?](https://t.co/EIPUZEzLnR?amp=1).</br>
+
+### Dia 76: 12 Fevereiro. Sexta-feira
+
+**Progresso de Hoje:** Realizei o desafio "Penguin Olympics: Swimming Race Disaster" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Penguin Olympics: Swimming Race Disaster](https://www.codewars.com/kata/6022c97dac16b0001c0e7ccc).</br>
