@@ -41,3 +41,9 @@
 **Progresso de Hoje:** Realizei o desafio "Penguin Olympics: Swimming Race Disaster" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Penguin Olympics: Swimming Race Disaster](https://www.codewars.com/kata/6022c97dac16b0001c0e7ccc).</br>
+
+### Dia 77: 13 Fevereiro. Sábado
+
+**Progresso de Hoje:** Realizei o desafio "Merged String Checker" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Merged String Checker](https://www.codewars.com/kata/54c9fcad28ec4c6e680011aa).</br>
