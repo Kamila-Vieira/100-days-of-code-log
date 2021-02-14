@@ -47,3 +47,9 @@
 **Progresso de Hoje:** Realizei o desafio "Merged String Checker" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Merged String Checker](https://www.codewars.com/kata/54c9fcad28ec4c6e680011aa).</br>
+
+### Dia 78: 14 Fevereiro. Domingo
+
+**Progresso de Hoje:** Realizei o desafio "Highest Scoring Word" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272).</br>
