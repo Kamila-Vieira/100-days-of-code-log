@@ -53,3 +53,9 @@
 **Progresso de Hoje:** Realizei o desafio "Highest Scoring Word" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272).</br>
+
+### Dia 79: 15 Fevereiro. Segunda-feira
+
+**Progresso de Hoje:** Realizei o desafio "Convert PascalCase string into snake_case" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Convert PascalCase string into snake_case](https://t.co/8fRdflwERR?amp=1).</br>
