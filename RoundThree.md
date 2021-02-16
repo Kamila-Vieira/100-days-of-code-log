@@ -59,3 +59,9 @@
 **Progresso de Hoje:** Realizei o desafio "Convert PascalCase string into snake_case" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Convert PascalCase string into snake_case](https://t.co/8fRdflwERR?amp=1).</br>
+
+### Dia 80: 16 Fevereiro. Terça-feira
+
+**Progresso de Hoje:** Realizei o desafio "Beeramid" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Beeramid](https://t.co/x2cULAQXti?amp=1).</br>
