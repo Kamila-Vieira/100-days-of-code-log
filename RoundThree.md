@@ -65,3 +65,9 @@
 **Progresso de Hoje:** Realizei o desafio "Beeramid" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Beeramid](https://t.co/x2cULAQXti?amp=1).</br>
+
+### Dia 81: 17 Fevereiro. Quarta-feira
+
+**Progresso de Hoje:** Realizei o desafio "Mean Square Error" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Mean Square Error](https://www.codewars.com/kata/51edd51599a189fe7f000015).</br>
