@@ -71,3 +71,9 @@
 **Progresso de Hoje:** Realizei o desafio "Mean Square Error" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Mean Square Error](https://www.codewars.com/kata/51edd51599a189fe7f000015).</br>
+
+### Dia 82: 18 Fevereiro. Quinta-feira
+
+**Progresso de Hoje:** Realizei o desafio "Phone Directory" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Phone Directory](https://www.codewars.com/kata/56baeae7022c16dd7400086e).</br>
