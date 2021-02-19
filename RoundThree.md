@@ -77,3 +77,9 @@
 **Progresso de Hoje:** Realizei o desafio "Phone Directory" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Phone Directory](https://www.codewars.com/kata/56baeae7022c16dd7400086e).</br>
+
+### Dia 83: 19 Fevereiro. Sexta-feira
+
+**Progresso de Hoje:** Realizei o desafio "Find the smallest" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Find the smallest](https://www.codewars.com/kata/573992c724fc289553000e95).</br>
