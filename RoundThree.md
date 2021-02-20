@@ -83,3 +83,9 @@
 **Progresso de Hoje:** Realizei o desafio "Find the smallest" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Find the smallest](https://www.codewars.com/kata/573992c724fc289553000e95).</br>
+
+### Dia 84: 20 Fevereiro. Sábado
+
+**Progresso de Hoje:** Realizei o desafio "Prize Draw" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Prize Draw](https://www.codewars.com/kata/5616868c81a0f281e500005c).</br>
