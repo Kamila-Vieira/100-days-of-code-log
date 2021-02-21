@@ -89,3 +89,9 @@
 **Progresso de Hoje:** Realizei o desafio "Prize Draw" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Prize Draw](https://www.codewars.com/kata/5616868c81a0f281e500005c).</br>
+
+### Dia 85: 21 Fevereiro. Domingo
+
+**Progresso de Hoje:** Realizei o desafio "Lazy Repeater" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Lazy Repeater](https://t.co/IiFV0DAVqQ?amp=1).</br>
