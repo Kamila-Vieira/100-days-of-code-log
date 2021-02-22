@@ -95,3 +95,9 @@
 **Progresso de Hoje:** Realizei o desafio "Lazy Repeater" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Lazy Repeater](https://t.co/IiFV0DAVqQ?amp=1).</br>
+
+### Dia 86: 22 Fevereiro. Segunda-feira
+
+**Progresso de Hoje:** Realizei o desafio "Consecutive strings" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Consecutive strings](https://t.co/ufjK0rDUgA?amp=1).</br>
