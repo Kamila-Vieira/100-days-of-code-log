@@ -101,3 +101,9 @@
 **Progresso de Hoje:** Realizei o desafio "Consecutive strings" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Consecutive strings](https://t.co/ufjK0rDUgA?amp=1).</br>
+
+### Dia 87: 23 Fevereiro. Terça-feira
+
+**Progresso de Hoje:** Realizei o desafio "MergeSort "merge" function" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [MergeSort "merge" function](https://t.co/kIxj71f8Q6?amp=1).</br>
