@@ -107,3 +107,9 @@
 **Progresso de Hoje:** Realizei o desafio "MergeSort "merge" function" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [MergeSort "merge" function](https://t.co/kIxj71f8Q6?amp=1).</br>
+
+### Dia 88: 24 Fevereiro. Quarta-feira
+
+**Progresso de Hoje:** Realizei o desafio "Metric Units - 1" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Metric Units - 1](https://www.codewars.com/kata/5264f5685fda8ed370000265).</br>
