@@ -113,3 +113,9 @@
 **Progresso de Hoje:** Realizei o desafio "Metric Units - 1" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Metric Units - 1](https://www.codewars.com/kata/5264f5685fda8ed370000265).</br>
+
+### Dia 89: 25 Fevereiro. Quinta-feira
+
+**Progresso de Hoje:** Realizei o desafio "Digit Recovery" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Digit Recovery](https://www.codewars.com/kata/5964d7e633b908e172000046).</br>
