@@ -119,3 +119,9 @@
 **Progresso de Hoje:** Realizei o desafio "Digit Recovery" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Digit Recovery](https://www.codewars.com/kata/5964d7e633b908e172000046).</br>
+
+### Dia 90: 26 Fevereiro. Sexta-feira
+
+**Progresso de Hoje:** Realizei o desafio "The Captain's Distance Request" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [The Captain's Distance Request](https://t.co/Rtt8YrosB5?amp=1).</br>
