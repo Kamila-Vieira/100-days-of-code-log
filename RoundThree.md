@@ -125,3 +125,9 @@
 **Progresso de Hoje:** Realizei o desafio "The Captain's Distance Request" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [The Captain's Distance Request](https://t.co/Rtt8YrosB5?amp=1).</br>
+
+### Dia 91: 27 Fevereiro. Sábado
+
+**Progresso de Hoje:** Realizei o desafio "Determine the date by the day number" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Determine the date by the day number](https://www.codewars.com/kata/602afedfd4a64d0008eb4e6e).</br>
