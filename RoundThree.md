@@ -131,3 +131,9 @@
 **Progresso de Hoje:** Realizei o desafio "Determine the date by the day number" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Determine the date by the day number](https://www.codewars.com/kata/602afedfd4a64d0008eb4e6e).</br>
+
+### Dia 92: 28 Fevereiro. Domingo
+
+**Progresso de Hoje:** Realizei o desafio "By the Power Set of Castle Grayskull" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [By the Power Set of Castle Grayskull](https://www.codewars.com/kata/53d3173cf4eb7605c10001a8).</br>
