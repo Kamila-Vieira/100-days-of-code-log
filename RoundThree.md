@@ -137,3 +137,33 @@
 **Progresso de Hoje:** Realizei o desafio "By the Power Set of Castle Grayskull" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [By the Power Set of Castle Grayskull](https://www.codewars.com/kata/53d3173cf4eb7605c10001a8).</br>
+
+### Dia 93: 01 Março. Segunda-feira
+
+**Progresso de Hoje:** Hoje aprendi o "grid-template-areas" no site da origamid.</br>
+**Observações:** O atributo define áreas específicas no grid em css nomeando cada elemento e especificando a área do elemento através do nome.</br>
+**Links:** [Grid - Origamid](https://t.co/1KYtvlxwZa?amp=1).</br>
+
+### Dia 94: 02 Março. Terça-feira
+
+**Progresso de Hoje:** Realizei o desafio "Jaden Casing Strings" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Jaden Casing Strings](https://t.co/82AtMxK2lY?amp=1).</br>
+
+### Dia 95: 03 Março. Quarta-feira
+
+**Progresso de Hoje:** Realizei o desafio "Validate Credit Card Number" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Validate Credit Card Number](https://t.co/xH4ywRZntB?amp=1).</br>
+
+### Dia 96: 04 Março. Quinta-feira
+
+**Progresso de Hoje:** Consegui resolver um desafio pessoal, ele consiste em renderizar um trapézio vertical com base em uma letra do alfabeto.</br>
+**Observações:** Estou cada vez melhor em Javacript, Desafio de trabalho.</br>
+**Links:** [-](#).</br>
+
+### Dia 97: 05 Março. Sexta-feira
+
+**Progresso de Hoje:** Realizei o desafio "Write Number in Expanded Form" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Write Number in Expanded Form](https://t.co/YFvDc1mYOX?amp=1).</br>
