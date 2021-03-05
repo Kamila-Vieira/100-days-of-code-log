@@ -1,4 +1,4 @@
-## Log do 3º Round desafio #100DaysOfCode | (05/02/2021 - 07/03/2021)
+## Log do 3º Round desafio #100DaysOfCode | (05/02/2021 - 08/03/2021)
 
 ### Dia 70: 05 Fevereiro. Sexta-feira
 
