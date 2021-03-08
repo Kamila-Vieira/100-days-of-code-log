@@ -160,10 +160,28 @@
 
 **Progresso de Hoje:** Consegui resolver um desafio pessoal, ele consiste em renderizar um trapézio vertical com base em uma letra do alfabeto.</br>
 **Observações:** Estou cada vez melhor em Javacript, Desafio de trabalho.</br>
-**Links:** [-](#).</br>
+**Links:** [------](#).</br>
 
 ### Dia 97: 05 Março. Sexta-feira
 
 **Progresso de Hoje:** Realizei o desafio "Write Number in Expanded Form" da codewars.</br>
 **Observações:** Estou cada vez melhor em Javacript.</br>
 **Links:** [Write Number in Expanded Form](https://t.co/YFvDc1mYOX?amp=1).</br>
+
+### Dia 98: 06 Março. Sábado
+
+**Progresso de Hoje:** Realizei o desafio "Multiplication table" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Multiplication table](https://t.co/jEIJeUkCrI?amp=1).</br>
+
+### Dia 99: 07 Março. Domingo
+
+**Progresso de Hoje:** Realizei o desafio "Complementary DNA" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Complementary DNA](https://t.co/vOGc0aRq4R?amp=1).</br>
+
+### Dia 100: 08 Março. Segunda-feira
+
+**Progresso de Hoje:** Realizei o desafio "Break camelCase" da codewars.</br>
+**Observações:** Estou cada vez melhor em Javacript.</br>
+**Links:** [Break camelCase](https://www.codewars.com/kata/5208f99aee097e6552000148).</br>
